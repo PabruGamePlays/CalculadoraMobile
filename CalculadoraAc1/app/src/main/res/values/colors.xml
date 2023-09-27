@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Yellow" />
+    <color name="NewYellow">#FFE60E</color>
+    <color name="Azulzin">#4AEDD7</color>
+    <color name="Verdin">#58F929</color>
+    <color name="Roxin">#6204D7</color>
+</resources>
